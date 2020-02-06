@@ -1,3 +1,4 @@
+# From Confluence "Twincat 3 Git Setup and Best Practices
 _Boot
 _Libraries
 _CompileInfo
@@ -6,4 +7,13 @@ _CompileInfo
 *.tpy
 *.bak
 *.~u
+*.csv
+*.svd
+*.dbg
+TrialLicense.tclrs
+*.library
+*.tmcRefac
+.pytmc_build
+
+# Vim ignores
 *.swp
