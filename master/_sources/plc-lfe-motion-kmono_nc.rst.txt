@@ -1,0 +1,176 @@
+
+NC Settings
+-----------
+
+.. csv-table::
+    :header: Axis ID, Name
+    :align: center
+
+        1, XTAL ANGLE X
+        2, XTAL VERT Y
+        3, RETICLE HORIZ X
+        4, RETICLE VERT Y
+        5, DIODE HORIZ X
+        6, DIODE VERT Y
+
+
+
+Axis 1: XTAL ANGLE X
+^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table::
+    :header: Setting, Value
+    :align: center
+
+    Axis ID, 1
+    Name, XTAL ANGLE X
+    AxisType, 1
+    CreateSymbols, true
+    Enc:EncType, 4
+    Enc:Inc:RefSoftSyncMask, #x0000ffff
+    Enc:MaxCount, #x0000ffff
+    Id, 1
+    OtherSettings:AllowMotionCmdToSlave, true
+
+
+
+Axis 2: XTAL VERT Y
+^^^^^^^^^^^^^^^^^^^
+
+.. csv-table::
+    :header: Setting, Value
+    :align: center
+
+    Axis ID, 2
+    Name, XTAL VERT Y
+    AxisType, 1
+    CreateSymbols, true
+    Dynamic:DelayTime, 0.008
+    Enc:EncType, 7
+    Enc:Inc:RefSoftSyncMask, #x0000ffff
+    Enc:MaxCount, #x0000ffff
+    Enc:ReferenceSystem, 1
+    Enc:ScaleFactorNumerator, 0.00172565918
+    Id, 2
+    OtherSettings:AllowMotionCmdToSlave, true
+    OtherSettings:PulseDistanceNeg, 0.5
+    OtherSettings:PulseDistancePos, 0.5
+    Velo:FastManual, 5
+    Velo:Maximum, 5.08
+    Velo:SlowManual, 3
+
+
+
+Axis 3: RETICLE HORIZ X
+^^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table::
+    :header: Setting, Value
+    :align: center
+
+    Axis ID, 3
+    Name, RETICLE HORIZ X
+    AxisType, 1
+    CreateSymbols, true
+    Dynamic:DelayTime, 0.008
+    Enc:EncType, 7
+    Enc:Inc:RefSoftSyncMask, #x0000ffff
+    Enc:MaxCount, #x0000ffff
+    Enc:ReferenceSystem, 1
+    Enc:ScaleFactorNumerator, 0.0006942810059
+    Id, 3
+    OtherSettings:AllowMotionCmdToSlave, true
+    OtherSettings:PulseDistanceNeg, 1
+    OtherSettings:PulseDistancePos, 1
+    Velo:FastManual, 3
+    Velo:Maximum, 3
+    Velo:RefSearch, 3
+    Velo:RefSync, 3
+    Velo:SlowManual, 1
+
+
+
+Axis 4: RETICLE VERT Y
+^^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table::
+    :header: Setting, Value
+    :align: center
+
+    Axis ID, 4
+    Name, RETICLE VERT Y
+    AxisType, 1
+    CreateSymbols, true
+    Dynamic:Acceleration, 0.874139
+    Dynamic:Deceleration, 0.178818
+    Dynamic:DelayTime, 0.008
+    Dynamic:Jerk, 152.824
+    Enc:EncType, 7
+    Enc:Inc:RefSoftSyncMask, #x0000ffff
+    Enc:MaxCount, #x0000ffff
+    Enc:ReferenceSystem, 1
+    Enc:ScaleFactorNumerator, 0.004388516235
+    Id, 4
+    OtherSettings:AllowMotionCmdToSlave, true
+    OtherSettings:PulseDistanceNeg, 3
+    OtherSettings:PulseDistancePos, 3
+    Velo:FastManual, 5
+    Velo:Maximum, 0.5
+    Velo:RefSearch, 2
+    Velo:RefSync, 2
+    Velo:SlowManual, 3
+
+
+
+Axis 5: DIODE HORIZ X
+^^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table::
+    :header: Setting, Value
+    :align: center
+
+    Axis ID, 5
+    Name, DIODE HORIZ X
+    AxisType, 1
+    CreateSymbols, true
+    Dynamic:Acceleration, 3.69082
+    Dynamic:Deceleration, 3.69082
+    Dynamic:Jerk, 68.11
+    Enc:EncType, 7
+    Enc:Inc:RefSoftSyncMask, #x0000ffff
+    Enc:MaxCount, #x0000ffff
+    Enc:ReferenceSystem, 1
+    Enc:ScaleFactorNumerator, 0.000711517334
+    Id, 5
+    OtherSettings:AllowMotionCmdToSlave, true
+    OtherSettings:PulseDistanceNeg, 1
+    OtherSettings:PulseDistancePos, 1
+    Velo:FastManual, 3
+    Velo:Maximum, 4
+    Velo:SlowManual, 1
+
+
+
+Axis 6: DIODE VERT Y
+^^^^^^^^^^^^^^^^^^^^
+
+.. csv-table::
+    :header: Setting, Value
+    :align: center
+
+    Axis ID, 6
+    Name, DIODE VERT Y
+    AxisType, 1
+    CreateSymbols, true
+    Enc:EncType, 7
+    Enc:Inc:RefSoftSyncMask, #x0000ffff
+    Enc:MaxCount, #x0000ffff
+    Enc:ReferenceSystem, 1
+    Enc:ScaleFactorNumerator, 0.004388516235
+    Id, 6
+    OtherSettings:AllowMotionCmdToSlave, true
+    Velo:FastManual, 3
+    Velo:Maximum, 4
+    Velo:SlowManual, 2
+
+

@@ -1,0 +1,152 @@
+
+Links
+-----
+
+.. csv-table::
+    :header: Owner A, Item A, Owner B, Item B
+    :align: center
+
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Status^Status^Error
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Status^Status^Moving negative
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Status^Status^Moving positive
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Status^Status^Ready
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Status^Status^Ready to enable
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Status^Status^Torque reduced
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Status^Status^Warning
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Status^Status^Error
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Status^Status^Moving negative
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Status^Status^Moving positive
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Status^Status^Ready
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Status^Status^Ready to enable
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Status^Status^Torque reduced
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Status^Status^Warning
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Status^Status^Error
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Status^Status^Moving negative
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Status^Status^Moving positive
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Status^Status^Ready
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Status^Status^Ready to enable
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Status^Status^Torque reduced
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Status^Status^Warning
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Status^Status^Error
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Status^Status^Moving negative
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Status^Status^Moving positive
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Status^Status^Ready
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Status^Status^Ready to enable
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Status^Status^Torque reduced
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Status^Status^Warning
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Status^Status^Error
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Status^Status^Moving negative
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Status^Status^Moving positive
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Status^Status^Ready
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Status^Status^Ready to enable
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Status^Status^Torque reduced
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Status^Status^Warning
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Status^Status^Error
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Status^Status^Moving negative
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Status^Status^Moving positive
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Status^Status^Ready
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Status^Status^Ready to enable
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Status^Status^Torque reduced
+        , Drive^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Status^Status^Warning
+        , Drive^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Status^Status^Sync error
+        , Drive^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Status^Status^TxPDO Toggle
+        , Drive^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Status^Status^Sync error
+        , Drive^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Status^Status^TxPDO Toggle
+        , Drive^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Status^Status^Sync error
+        , Drive^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Status^Status^TxPDO Toggle
+        , Drive^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Status^Status^Sync error
+        , Drive^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Status^Status^TxPDO Toggle
+        , Drive^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Status^Status^Sync error
+        , Drive^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Status^Status^TxPDO Toggle
+        , Drive^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Status^Status^Sync error
+        , Drive^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Status^Status^TxPDO Toggle
+        , Drive^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), WcState^InputToggle
+        , Drive^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), WcState^WcState
+        , Drive^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), WcState^InputToggle
+        , Drive^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), WcState^WcState
+        , Drive^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), WcState^InputToggle
+        , Drive^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), WcState^WcState
+        , Drive^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), WcState^InputToggle
+        , Drive^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), WcState^WcState
+        , Drive^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), WcState^InputToggle
+        , Drive^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), WcState^WcState
+        , Drive^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), WcState^InputToggle
+        , Drive^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), WcState^WcState
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Control^Control^Enable
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Control^Control^Reduce torque
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Control^Control^Reset
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Control^Control^Enable
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Control^Control^Reduce torque
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Control^Control^Reset
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Control^Control^Enable
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Control^Control^Reduce torque
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Control^Control^Reset
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Control^Control^Enable
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Control^Control^Reduce torque
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Control^Control^Reset
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Control^Control^Enable
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Control^Control^Reduce torque
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Control^Control^Reset
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Control^Control^Enable
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Control^Control^Reduce torque
+        , Drive^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Control^Control^Reset
+        , Drive^Outputs^Out^nDataOut2[0], TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Velocity^Velocity
+        , Drive^Outputs^Out^nDataOut2[0], TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Velocity^Velocity
+        , Drive^Outputs^Out^nDataOut2[0], TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Velocity^Velocity
+        , Drive^Outputs^Out^nDataOut2[0], TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Velocity^Velocity
+        , Drive^Outputs^Out^nDataOut2[0], TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Velocity^Velocity
+        , Drive^Outputs^Out^nDataOut2[0], TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Velocity^Velocity
+        , Enc^Inputs^In^nDataIn1[0], TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Status compact^Counter value
+        , Enc^Inputs^In^nDataIn1[0], TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E4_LVDT (EL3052), AI Standard Channel 1^Value
+        , Enc^Inputs^In^nDataIn1[0], TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E4_LVDT (EL3052), AI Standard Channel 2^Value
+        , Enc^Inputs^In^nDataIn1[0], TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E5_LVDT (EL3052), AI Standard Channel 1^Value
+        , Enc^Inputs^In^nDataIn1[0], TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E5_LVDT (EL3052), AI Standard Channel 2^Value
+        , Enc^Inputs^In^nDataIn1[0], TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E6_LVDT (EL3052), AI Standard Channel 1^Value
+        , Enc^Inputs^In^nDataIn2[0], TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Status compact^Latch value
+        , Enc^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Status compact^Status^Counter overflow
+        , Enc^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Status compact^Status^Counter underflow
+        , Enc^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Status compact^Status^Latch extern valid
+        , Enc^Inputs^In^nState1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Status compact^Status^Set counter done
+        , Enc^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Status compact^Status^Status of extern latch
+        , Enc^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Status compact^Status^Sync error
+        , Enc^Inputs^In^nState2, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Status compact^Status^TxPDO Toggle
+        , Enc^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), WcState^InputToggle
+        , Enc^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), WcState^WcState
+        , Enc^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E4_LVDT (EL3052), WcState^InputToggle
+        , Enc^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E4_LVDT (EL3052), WcState^WcState
+        , Enc^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E4_LVDT (EL3052), WcState^InputToggle
+        , Enc^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E4_LVDT (EL3052), WcState^WcState
+        , Enc^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E5_LVDT (EL3052), WcState^InputToggle
+        , Enc^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E5_LVDT (EL3052), WcState^WcState
+        , Enc^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E5_LVDT (EL3052), WcState^InputToggle
+        , Enc^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E5_LVDT (EL3052), WcState^WcState
+        , Enc^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E6_LVDT (EL3052), WcState^InputToggle
+        , Enc^Inputs^In^nState4, TIID^Device 2 (EtherCAT)^E0_LVDT (EK1100)^E6_LVDT (EL3052), WcState^WcState
+        , Enc^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Control compact^Control^Enable latch extern on negative edge
+        , Enc^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Control compact^Control^Enable latch extern on positive edge
+        , Enc^Outputs^Out^nCtrl1, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Control compact^Control^Set counter
+        , Enc^Outputs^Out^nDataOut1[0], TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), ENC Control compact^Set counter value
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.M1.Axis.NcToPlc, TINC^NC-Task 1 SAF^Axes^XTAL ANGLE X, Outputs^ToPlc
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.M2.Axis.NcToPlc, TINC^NC-Task 1 SAF^Axes^XTAL VERT Y, Outputs^ToPlc
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.M3.Axis.NcToPlc, TINC^NC-Task 1 SAF^Axes^RETICLE HORIZ X, Outputs^ToPlc
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.M4.Axis.NcToPlc, TINC^NC-Task 1 SAF^Axes^RETICLE VERT Y, Outputs^ToPlc
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.M5.Axis.NcToPlc, TINC^NC-Task 1 SAF^Axes^DIODE HORIZ X, Outputs^ToPlc
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.M6.Axis.NcToPlc, TINC^NC-Task 1 SAF^Axes^DIODE VERT Y, Outputs^ToPlc
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.bM1CCWLimit, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Status^Status^Digital input 2
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.bM1CWLimit, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E1_MOTORS (EL7031), STM Status^Status^Digital input 1
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.bM2CCWLimit, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Status^Status^Digital input 2
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.bM2CWLimit, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E2_MOTORS (EL7041), STM Status^Status^Digital input 1
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.bM3CCWLimit, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Status^Status^Digital input 2
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.bM3CWLimit, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E3_MOTORS (EL7041), STM Status^Status^Digital input 1
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.bM4CCWLimit, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Status^Status^Digital input 2
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.bM4CWLimit, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E4_MOTORS (EL7041), STM Status^Status^Digital input 1
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.bM5CCWLimit, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Status^Status^Digital input 2
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.bM5CWLimit, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E5_MOTORS (EL7041), STM Status^Status^Digital input 1
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.bM6CCWLimit, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Status^Status^Digital input 2
+        plc_lfe_motion_kmono Instance, PlcTask Inputs^MAIN.bM6CWLimit, TIID^Device 2 (EtherCAT)^E0_MOTORS (EK1100)^E6_MOTORS (EL7041), STM Status^Status^Digital input 1
+        plc_lfe_motion_kmono Instance, PlcTask Outputs^MAIN.M1.Axis.PlcToNc, TINC^NC-Task 1 SAF^Axes^XTAL ANGLE X, Inputs^FromPlc
+        plc_lfe_motion_kmono Instance, PlcTask Outputs^MAIN.M2.Axis.PlcToNc, TINC^NC-Task 1 SAF^Axes^XTAL VERT Y, Inputs^FromPlc
+        plc_lfe_motion_kmono Instance, PlcTask Outputs^MAIN.M3.Axis.PlcToNc, TINC^NC-Task 1 SAF^Axes^RETICLE HORIZ X, Inputs^FromPlc
+        plc_lfe_motion_kmono Instance, PlcTask Outputs^MAIN.M4.Axis.PlcToNc, TINC^NC-Task 1 SAF^Axes^RETICLE VERT Y, Inputs^FromPlc
+        plc_lfe_motion_kmono Instance, PlcTask Outputs^MAIN.M5.Axis.PlcToNc, TINC^NC-Task 1 SAF^Axes^DIODE HORIZ X, Inputs^FromPlc
+        plc_lfe_motion_kmono Instance, PlcTask Outputs^MAIN.M6.Axis.PlcToNc, TINC^NC-Task 1 SAF^Axes^DIODE VERT Y, Inputs^FromPlc
