@@ -36,6 +36,9 @@ Libraries
     :header: Library, Vendor, Default, Version
     :align: center
 
+        Tc2_Standard, Beckhoff Automation GmbH, Unset, Unset
+        Tc2_System, Beckhoff Automation GmbH, Unset, Unset
+        Tc3_Module, Beckhoff Automation GmbH, Unset, Unset
 
 Symbols
 -------
